@@ -1,0 +1,2 @@
+Contenu initial de file1.txt
+Ajout de nouveau contenu à file1.txt
